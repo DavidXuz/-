@@ -1,0 +1,13 @@
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/constant/ActionType.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/vo/TemplateVo.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/service/impl/TemplateService.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/service/ITemplateService.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/vo/TemplateListItemVo.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/vo/AppVO.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/model/Template.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/model/Action.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/util/Response.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/dao/ITemplateDao.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/dao/impl/TemplateDao.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/controller/TemplateController.java
+/Users/loick/Downloads/dbh_measurement/blind/src/main/java/com/example/blind/BlindApplication.java
