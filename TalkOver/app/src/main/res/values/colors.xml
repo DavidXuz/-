@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F5F5F5</color>
+    <color name="colorPrimaryDark">@android:color/white</color>
+    <color name="colorAccent">@android:color/white</color>
+    <color name="commonTextColor">#1DCFC9</color>
+    <color name="searchHintColor">#B6B6B6</color>
+    <color name="searchBorderColor">#E6E6E6</color>
+</resources>
